@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748289130091",
+    "project_id": "expopushnotification3",
+    "storage_bucket": "expopushnotification3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748289130091:android:34354800de4e9e9844fb2e",
+        "android_client_info": {
+          "package_name": "com.dilantha66.expopushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh_AJ79jQXk-c6YAoZwxoA2RNKKmeo68c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
